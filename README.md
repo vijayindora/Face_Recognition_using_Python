@@ -5,9 +5,11 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
 
 ### What steps you have to follow??
+- Install OpenCV (pip install opencv-python)
+- Install Face Recognition (pip install face_recognition)
+- Install Cmake (pip install cmake)
 - Download or clone my Repository to your device
-- type `pip install -r requirements.txt` in command prompt(this will install required package for project)
-- Create a `TrainingImage` folder in a project folder.
+- Run the project in PyCharm.
 - open `attendance.py` and `automaticAttendance.py`, change all the path according to your system
 - Run `attandance.py` file
 
